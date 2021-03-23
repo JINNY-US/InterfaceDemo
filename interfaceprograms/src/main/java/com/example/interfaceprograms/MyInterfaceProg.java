@@ -13,7 +13,7 @@ public class MyInterfaceProg {
         countries[0].setArea(176220);
         countries[1] = new Country("Thailand", 514000);
         System.out.println("Average area: " + average(countries));
-
+        "C:\interfacedemo"
     }
 
     private static double average(Measurable[] objects) {
